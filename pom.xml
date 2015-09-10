@@ -36,4 +36,8 @@
     </plugins>
   </build>
 
+  <scm>
+    <connection>scm:git:https://github.com/cmourouvin/a4c-release-process-test.git</connection>
+  </scm>
+
 </project>
