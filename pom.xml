@@ -33,6 +33,10 @@
         <groupId>external.atlassian.jgitflow</groupId>
         <artifactId>jgitflow-maven-plugin</artifactId>
         <version>1.0-m5.1</version>
+        <configuration>
+          <username>cedric.mourouvin</username>
+          <password>ysance42</password>
+        </configuration>
       </plugin>
     </plugins>
   </build>
