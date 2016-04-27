@@ -17,12 +17,12 @@
 
   <distributionManagement>
     <repository>
-      <id>repo.opensource.fastconnect.org</id>
-      <url>https://fastconnect.org/maven/content/repositories/opensource</url>
+      <id>repo.releases.ysance.com</id>
+      <url>http://nexus.dmp.y-track.com/content/repositories/releases</url>
     </repository>
     <snapshotRepository>
-      <id>repo.opensource.snapshot.fastconnect.org</id>
-      <url>https://fastconnect.org/maven/content/repositories/opensource-snapshot</url>
+      <id>repo.snapshots.ysance.com</id>
+      <url>http://nexus.dmp.y-track.com/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
 
@@ -39,5 +39,7 @@
   <scm>
     <connection>scm:git:ssh://git@github.com:cmourouvin/a4c-release-process-test.git</connection>
   </scm>
+
+  <!-- git@git.ysance-labs.com:dmp-liveapi-processing.git -->
 
 </project>
