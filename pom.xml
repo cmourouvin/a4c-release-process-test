@@ -3,7 +3,7 @@
   <groupId>fr.alien4cloud.release</groupId>
   <artifactId>a4c-release-process-test</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>0.1-SNAPSHOT</version>
   <name>a4c-release-process-test</name>
   <url>http://maven.apache.org</url>
   <dependencies>
