@@ -3,7 +3,7 @@
   <groupId>com.ysance.test-release</groupId>
   <artifactId>test-release</artifactId>
   <packaging>jar</packaging>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.1-SNAPSHOT</version>
 
   <name>YSance Maven test release</name>
   <url>http://maven.apache.org</url>
@@ -33,10 +33,6 @@
         <groupId>external.atlassian.jgitflow</groupId>
         <artifactId>jgitflow-maven-plugin</artifactId>
         <version>1.0-m5.1</version>
-        <configuration>
-          <username>cedric.mourouvin</username>
-          <password>ysance42</password>
-        </configuration>
       </plugin>
     </plugins>
   </build>
