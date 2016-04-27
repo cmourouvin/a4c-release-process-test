@@ -3,7 +3,7 @@
   <groupId>com.ysance.test-release</groupId>
   <artifactId>test-release</artifactId>
   <packaging>jar</packaging>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.1</version>
 
   <name>YSance Maven test release</name>
   <url>http://maven.apache.org</url>
